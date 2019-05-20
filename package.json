@@ -1,5 +1,5 @@
 {
-  "name": "aws-sdk",
+  "name": "aws",
   "description": "AWS SDK for JavaScript",
   "version": "2.458.0",
   "author": {
